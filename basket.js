@@ -7,6 +7,6 @@ let f1 = (basket,prices)=>{
     }
     return totalCost;
 }
-basket = {apple:1,orange:1,grapes:5};
-price = {apple:2.50,orange:3.50,grapes:5.0,tea:10,milk:50};
+basket = {apple:1,oran:1,grapes:5};
+price = {apple:2.50,oran:3.50,grapes:5.0,tea:10,milk:50};
 alert(f1(basket,price));
