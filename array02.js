@@ -11,7 +11,7 @@ function array(a,l) {
     return sum
 }
 
-let a = [3, 5];
+let a = [3, 6];
 let l = [2,6,88,6,76,13,17]
 
 
